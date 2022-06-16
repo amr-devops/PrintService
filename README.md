@@ -21,7 +21,7 @@ https://apps.odoo.com/apps/modules/15.0/EasyERPS_pos_bluetooth_built-in_printer/
  
  <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/6.PNG">
   
-The aoo now reay to use
+The app now ready to use
 
 # <a name="Odoo Configuration"></a>Odoo Configuration
 
