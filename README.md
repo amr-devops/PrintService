@@ -9,5 +9,15 @@
 
  <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/1.PNG">
  
+ <img src="ttps://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/2.PNG">
+ 
+ <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/3.PNG">
+ 
+ <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/4.PNG">
+ 
+ <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/5.PNG">
+ 
+ <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/6.PNG">
+ 
  
 Releases Print Service apk for Odoo POS Bluetooth/Built-in Printer app
