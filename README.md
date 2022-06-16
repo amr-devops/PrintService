@@ -25,7 +25,7 @@ The aoo now reay to use
 
 Now go to odoo and install the module and from POS session settings activate Direct Bluetooth printer and set other settings:
 
- <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/7.PNG">
+ <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/7.png">
  
  ## <a name="Use Different Printer for Category/Label Receipt"></a>Use Different Printer for Category/Label Receipt 
  
@@ -34,5 +34,5 @@ If you have other printer and want to print category or label receipt on it plea
 - Open the app and follow the above instruction
 - Now go to odoo and POS session settings and select (Use Different Bluetooth/USB/IP Printer for Category/Label Receipt at Port 9200)
 
-<img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/8.PNG">
+<img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/8.png">
  
