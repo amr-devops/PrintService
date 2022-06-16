@@ -9,7 +9,7 @@
 
  <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/1.PNG">
  
- <img src="ttps://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/2.PNG">
+ <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/2.PNG">
  
  <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/3.PNG">
  
