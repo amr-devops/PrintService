@@ -1,6 +1,6 @@
 # PrintService
 
-## Configuration
+# <a name="Android App Configuration"></a>Android App Configuration
 
 - Get the latest Print Service app in releases page :
   https://github.com/amr-devops/PrintService/releases
@@ -21,6 +21,18 @@
   
 The aoo now reay to use
 
-# <a name="features"></a>Features
+# <a name="Odoo Configuration"></a>Odoo Configuration
+
+Now go to odoo and install the module and from POS session settings activate Direct Bluetooth printer and set other settings:
+
+ <img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/7.PNG">
  
-Releases Print Service apk for Odoo POS Bluetooth/Built-in Printer app
+ ## <a name="Use Different Printer for Category/Label Receipt"></a>Use Different Printer for Category/Label Receipt 
+ 
+If you have other printer and want to print category or label receipt on it please follow the below:
+- Download the 9200.Service.apk file and install it on your android device
+- Open the app and follow the above instruction
+- Now go to odoo and POS session settings and select (Use Different Bluetooth/USB/IP Printer for Category/Label Receipt at Port 9200)
+
+<img src="https://github.com/amr-devops/PrintService/blob/main/PrintServiceDec/8.PNG">
+ 
